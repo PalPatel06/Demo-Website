@@ -7,8 +7,6 @@ This is a responsive, multi-section static website built using HTML and CSS, des
 
 Fixed horizontal navigation bar with links: HOME, ABOUT, SERVICE, DESIGN, CONTACT.
 
-Built with semantic <ul> and styled for modern UI.
-
 2) Hero Section
 
 Bold headline introducing a fictional "Web Design & Development Course".
@@ -39,5 +37,7 @@ Can be made mobile-friendly with media queries.
 
 Technologies Used:
 1)HTML
+
 2)CSS
+
 3)Ionicons (for social icons)
