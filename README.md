@@ -3,21 +3,22 @@ This is a responsive, multi-section static website built using HTML and CSS, des
 
 🔹 Key Features:
 
-1.Navigation Bar
-    Fixed horizontal navigation bar with links: HOME, ABOUT, SERVICE, DESIGN, CONTACT.
-    Built with semantic <ul> and styled for modern UI.
+1.Navigation Bar:
     
-2.Hero Section
-    Bold headline introducing a fictional "Web Design & Development Course".
-    Includes a short introductory paragraph and a CTA button (“Join Us”).
+Fixed horizontal navigation bar with links: HOME, ABOUT, SERVICE, DESIGN, CONTACT.
+Built with semantic <ul> and styled for modern UI.
+    
+2.Hero Section:
+Bold headline introducing a fictional "Web Design & Development Course".
+Includes a short introductory paragraph and a CTA button (“Join Us”).
 
-3.Search Bar
-    Integrated into the navbar to simulate interactive elements.
-    Includes an input field and a styled "Search" button.
+3.Search Bar:
+Integrated into the navbar to simulate interactive elements.
+Includes an input field and a styled "Search" button.
 
-4.Login Form (Sidebar)
-    Right-aligned form section with inputs for email and password.
-    Includes a Login button, sign-up link, and social media login icons.
+4.Login Form (Sidebar):
+Right-aligned form section with inputs for email and password.
+Includes a Login button, sign-up link, and social media login icons.
 
 5.Social icons use Ionicons CDN for visual appeal.
     Responsive Layout
